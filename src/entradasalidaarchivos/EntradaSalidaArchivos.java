@@ -22,7 +22,7 @@ public class EntradaSalidaArchivos {
         
             String palabra;
             String linea;
-            char[] buffer=new char[200];
+            char[] buffer=new char[300];
 
             File f = new File("textoprueba.txt");
 
